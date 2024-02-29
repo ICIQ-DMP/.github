@@ -95,9 +95,7 @@ These are the links of the services available for the digitalization process at 
 
 <!-- ROADMAP -->
 ## Roadmap
-- [ ] Refine import-export of the *eChempad* platform so it can be used by researchers with real data to publish their research results.
-
-See the [open issues](https://github.com/ICIQ-DMP/.github/issues) in this repository for a full list of proposed features and known issues regarding digitalization.
+See the [open issues](https://github.com/ICIQ-DMP/roadmap/issues) in this repository for a full list of proposed features and known issues regarding ICIQ digitalization services.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
