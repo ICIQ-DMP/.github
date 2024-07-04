@@ -132,23 +132,74 @@ The existence of this organization was possible thanks to a grant of [*Personal 
 Apoyo* (Technical staff for support) with reference *PTA2020-019734-I*](https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-personal-tecnico-apoyo-pta-2020)
 from [*Ministerio de Ciencia e Innovación*](https://www.ciencia.gob.es/) from the [spanish government](https://www.lamoncloa.gob.es/Paginas/index.aspx).
 
+<!-- Acknowledgement 1 -->
 <div id="image-table" align="center">
     <table>
 	    <tr>
     	    <td style="padding:10px">
-                <a href="https://www.lamoncloa.gob.es/Paginas/index.aspx"><img src=".github/images/logo_gobierno.svg" alt="Logo spanish government"></a>
+                <a href="https://www.aei.gob.es/convocatorias/buscador-convocatorias/ayudas-contratos-personal-tecnico-apoyo-pta-2020">PTA2020-019734-I</a>
       	    </td>
             <td style="padding:10px">
+                The existence of this organization was possible thanks to a grant of Personal Técnico de Apoyo (Technical staff for support) from <a href="https://www.ciencia.gob.es/">Ministerio de Ciencia e Innovación</a> from the <a href="https://www.lamoncloa.gob.es/Paginas/index.aspx">spanish government</a>.
+            </td>
+            <td style="padding:10px">
+                <a href="https://www.lamoncloa.gob.es/Paginas/index.aspx"><img src=".github/images/logo_gobierno.svg" alt="Logo spanish government"></a>
                 <a href="https://www.ciencia.gob.es/"><img src=".github/images/logo_ministerio_ciencia.svg" alt="Spanish ministry of Science and Innovation"></a>
-            </td>
-            <td style="padding:10px">
                 <a href="https://spanish-presidency.consilium.europa.eu/"><img src=".github/images/eu2023.svg" alt="Spanish presidency of the European Union"></a>
-            </td>
-            <td style="padding:10px">
                 <a href="https://www.aei.gob.es/"><img src=".github/images/logo_aei.svg" alt="Spanish Statal Investigation Agency "></a>
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/eu_fse.png" alt="European Social Funding"></a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- Acknowledgement 2 -->
+<div id="image-table" align="center">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+                <a href="https://www.ciencia.gob.es/">PID2020-112806GB-I00</a>
+      	    </td>
+            <td style="padding:10px">
+                <a href="https://www.ciencia.gob.es/">This publication is part of the project PID2020-112806GB-I00 financed by MICIU/AEI/10.13039/501100011033</a>
             </td>
             <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/eu_fse.png" alt="European Social Funding"></a>
+                <a href="https://www.ciencia.gob.es/"><img src=".github/images/PID2020-112806RB-I00-MICIU-AEI-10.13039-501100011033.png" alt="Logo Ministerio of Science, Innovation and Universities and the Spanish Statal Agency of Investigaction"></a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- Acknowledgement 3 -->
+<div id="image-table" align="center">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+                <a href="https://ec.europa.eu/esf/home.jsp">TED2021-132850B-I00</a>
+      	    </td>
+            <td style="padding:10px">
+                <a href="https://ec.europa.eu/esf/home.jsp">Esta publicaciónes parte del proyecto de I+D+i TED2021-132850B-I00, financiado por MICIU/AEI/10.13039/501100011033 y por la "Union Europea Next GenerationEU/PRTR"</a>
+            </td>
+            <td style="padding:10px">
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/TED2021-132850B-I00-MICIU-AEI-10.13039-501100011033_y_Union_Europea_Next_GenerationEU_PRTR.png" alt="European Social Funding"></a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- Acknowledgement 4 -->
+<div id="image-table" align="center">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+                <a href="https://ec.europa.eu/esf/home.jsp">2022 INNOV 00019</a>
+      	    </td>
+            <td style="padding:10px">
+                <a href="https://ec.europa.eu/esf/home.jsp">Ajuts innovadors 2022. Referència 2022 INNOV 00019. Amb el suport del Departament de Recerca i Universitats de la Generalitat de Catalunya.</a>
+            </td>
+            <td style="padding:10px">
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/Generalitat_de_Catalunya.png" alt="European Social Funding"></a>
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/Agència_de_Gestió_d'Ajuts_Universitaris_i_de_recerca.png" alt="European Social Funding"></a>
             </td>
         </tr>
     </table>
