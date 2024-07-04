@@ -143,11 +143,15 @@ from [*Ministerio de Ciencia e Innovación*](https://www.ciencia.gob.es/) from t
                 The existence of this organization was possible thanks to a grant of Personal Técnico de Apoyo (Technical staff for support) from <a href="https://www.ciencia.gob.es/">Ministerio de Ciencia e Innovación</a> from the <a href="https://www.lamoncloa.gob.es/Paginas/index.aspx">spanish government</a>.
             </td>
             <td style="padding:10px">
-                <a href="https://www.lamoncloa.gob.es/Paginas/index.aspx"><img src=".github/images/logo_gobierno.svg" alt="Logo spanish government"></a>
-                <a href="https://www.ciencia.gob.es/"><img src=".github/images/logo_ministerio_ciencia.svg" alt="Spanish ministry of Science and Innovation"></a>
-                <a href="https://spanish-presidency.consilium.europa.eu/"><img src=".github/images/eu2023.svg" alt="Spanish presidency of the European Union"></a>
-                <a href="https://www.aei.gob.es/"><img src=".github/images/logo_aei.svg" alt="Spanish Statal Investigation Agency "></a>
-                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/eu_fse.png" alt="European Social Funding"></a>
+                <a href="https://www.lamoncloa.gob.es/Paginas/index.aspx"><img src=".github/images/logo_gobierno.svg" alt="Logo spanish government" width="460"></a>
+                <br>
+                <a href="https://www.ciencia.gob.es/"><img src=".github/images/logo_ministerio_ciencia.svg" alt="Spanish ministry of Science and Innovation" width="460"></a>
+                <br>
+                <a href="https://spanish-presidency.consilium.europa.eu/"><img src=".github/images/eu2023.svg" alt="Spanish presidency of the European Union" width="460"></a>
+                <br>
+                <a href="https://www.aei.gob.es/"><img src=".github/images/logo_aei.svg" alt="Spanish Statal Investigation Agency " width="460"></a>
+                <br>
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/eu_fse.png" alt="European Social Funding" width="460"></a>
             </td>
         </tr>
     </table>
