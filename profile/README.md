@@ -185,7 +185,7 @@ from [*Ministerio de Ciencia e Innovación*](https://www.ciencia.gob.es/) from t
                 <a href="https://ec.europa.eu/esf/home.jsp">Esta publicaciónes parte del proyecto de I+D+i TED2021-132850B-I00, financiado por MICIU/AEI/10.13039/501100011033 y por la "Union Europea Next GenerationEU/PRTR"</a>
             </td>
             <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/TED2021-132850B-I00-MICIU-AEI-10.13039-501100011033_y_Union_Europea_Next_GenerationEU_PRTR.png" alt="European Social Funding"></a>
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/TED2021-132850B-I00-MICIU-AEI-10.13039-501100011033_y_Union_Europea_Next_GenerationEU_PRTR.png" alt="European Social Funding" width="650"></a>
             </td>
         </tr>
     </table>
