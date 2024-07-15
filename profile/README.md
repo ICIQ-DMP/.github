@@ -162,10 +162,10 @@ from [*Ministerio de Ciencia e Innovación*](https://www.ciencia.gob.es/) from t
     <table>
 	    <tr>
     	    <td style="padding:10px">
-                <a href="https://www.ciencia.gob.es/">PID2020-112806GB-I00</a>
+                <a href="https://www.aei.gob.es/convocatorias/buscador-convocatorias/proyectos-idi-2020-modalidades-retos-investigacion-3">PID2020-112806GB-I00</a>
       	    </td>
             <td style="padding:10px">
-                <a href="https://www.ciencia.gob.es/">This publication is part of the project PID2020-112806GB-I00 financed by MICIU/AEI/10.13039/501100011033</a>
+                <a>This publication is part of the project PID2020-112806GB-I00 financed by MICIU/AEI/10.13039/501100011033</a>
             </td>
             <td style="padding:10px">
                 <a href="https://www.ciencia.gob.es/"><img src=".github/images/PID2020-112806RB-I00-MICIU-AEI-10.13039-501100011033.png" alt="Logo Ministerio of Science, Innovation and Universities and the Spanish Statal Agency of Investigaction"></a>
@@ -179,13 +179,13 @@ from [*Ministerio de Ciencia e Innovación*](https://www.ciencia.gob.es/) from t
     <table>
 	    <tr>
     	    <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp">TED2021-132850B-I00</a>
+                <a href="https://www.aei.gob.es/sites/default/files/convocatory_info/2022-12/RC_TED2021_def_COMPLETA_fda.pdf">TED2021-132850B-I00</a>
       	    </td>
             <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp">Esta publicaciónes parte del proyecto de I+D+i TED2021-132850B-I00, financiado por MICIU/AEI/10.13039/501100011033 y por la "Union Europea Next GenerationEU/PRTR"</a>
+                <a>Esta publicaciónes parte del proyecto de I+D+i TED2021-132850B-I00, financiado por MICIU/AEI/10.13039/501100011033 y por la "Union Europea Next GenerationEU/PRTR"</a>
             </td>
             <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/TED2021-132850B-I00-MICIU-AEI-10.13039-501100011033_y_Union_Europea_Next_GenerationEU_PRTR.png" alt="European Social Funding" width="650"></a>
+                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/TED2021-132850B-I00-MICIU-AEI-10.13039-501100011033_y_Union_Europea_Next_GenerationEU_PRTR.png" alt="European Social Funding logo (Unión Europea Next Generation funds)" width="650"></a>
             </td>
         </tr>
     </table>
@@ -196,14 +196,31 @@ from [*Ministerio de Ciencia e Innovación*](https://www.ciencia.gob.es/) from t
     <table>
 	    <tr>
     	    <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp">2022 INNOV 00019</a>
+                <a href="https://agaur.gencat.cat/ca/detalls/activitatagenda/20190724_INNOV_2022">2022 INNOV 00019</a>
       	    </td>
             <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp">Ajuts innovadors 2022. Referència 2022 INNOV 00019. Amb el suport del Departament de Recerca i Universitats de la Generalitat de Catalunya.</a>
+                <a>Ajuts innovadors 2022. Referència 2022 INNOV 00019. Amb el suport del Departament de Recerca i Universitats de la Generalitat de Catalunya.</a>
             </td>
             <td style="padding:10px">
-                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/Generalitat_de_Catalunya.png" alt="European Social Funding"></a>
-                <a href="https://ec.europa.eu/esf/home.jsp"><img src=".github/images/Agència_de_Gestió_d'Ajuts_Universitaris_i_de_recerca.png" alt="European Social Funding"></a>
+                <a href="https://govern.cat/gov/"><img src=".github/images/Generalitat_de_Catalunya.png" alt="Generalitat de Catalunya logo"></a>
+                <a href="https://agaur.gencat.cat/ca/inici"><img src=".github/images/Agència_de_Gestió_d'Ajuts_Universitaris_i_de_recerca.png" alt="Agència de Gestió d'Ajuts Universitaris i de recerca"></a>
+            </td>
+        </tr>
+    </table>
+</div>
+
+<!-- Acknowledgement 5 -->
+<div id="image-table" align="center">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+                <a href="https://www.aei.gob.es/sites/default/files/stfls/MICINN/Ayudas/PE_2017_2020/PE_Generacion_Conocimiento_Fortalecimiento_Cientifico_Tecnologico/Subprograma_Fortalecimiento_Institucional/FICHEROS/Severo_Ochoa_Maria_Maeztu/PRD_SEV_MdM_2019_sede_vf_fda.pdf">Severo Ochoa Grant CEX-2019-000925-S</a>
+      	    </td>
+            <td style="padding:10px">
+                <a>We thank the MCIN/AEI/10.13039/501100011033 (CEX2019-000925-S)</a>
+            </td>
+            <td style="padding:10px">
+                <a href="https://www.ciencia.gob.es/Organismos-y-Centros/SOMMA.html"><img src=".github/images/Severo_Ochoa.jpg" alt="Severo Ochoa logo"></a>
             </td>
         </tr>
     </table>
